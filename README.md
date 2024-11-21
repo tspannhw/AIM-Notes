@@ -10,6 +10,9 @@ https://iceberg.apache.org/
 https://nifi.apache.org/
 https://streamlit.io/
 
+https://www.capitalone.com/software/solutions/?
+
+
 https://www.snowflake.com/en/developers/open-source/
 https://github.com/snowflakedb/snowpark-python
 

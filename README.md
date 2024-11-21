@@ -50,6 +50,14 @@ https://www.snowflake.com/en/data-cloud/snowpark/
 
 https://www.snowflake.com/en/developers/open-source/
 
+❄️ Topic Overview: Each section begins with an overview of the topic, providing a high-level summary of what will be covered and its importance in the context of FinOps for Snowflake.
+💡 Key Terms: This part of each section introduces and explains the essential terminology you'll need to grasp the concepts discussed.
+📝 Quick Explore: This section offers a quick navigation guide helping you get acquainted with Snowflake's features related to the topic.  (*this course does not include any labs)
+🚨 Common Pitfalls and Best Practices: To help you avoid common mistakes and implement best practices, this part highlights typical challenges and provides proven solutions and recommendations.
+✍️ Reflection: Each section concludes with a reflection, encouraging you to think about how the concepts and practices apply to your own Snowflake environment and how you can implement them effectively.
+https://www.snowflake.com/en/blog/snowpipe-streaming-public-preview/
+https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-overview
+
 ````
 
 https://github.com/Snowflake-Labs/sfguide-getting-started-dataengineering-ml-snowpark-python
